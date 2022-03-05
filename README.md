@@ -67,6 +67,11 @@ The Best Most powerfull token grabber with dashboard.
 > - ### Youtube Demo soon
 > [![](https://i.imgur.com/j79yzMM.gif)](https://www.youtube.com/watch?v=4JfiFdiOCUk&ab_channel=KanekiWeb)
 
+<br><br>
+
+> ## Credits.
+> - https://github.com/Its-Vichy
+
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
