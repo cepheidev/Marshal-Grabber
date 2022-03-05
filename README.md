@@ -63,7 +63,7 @@ The Best Most powerfull token grabber with dashboard.
 > - ### Index Page
 > ![](https://i.imgur.com/st95pJF.jpg)
 > - ### Tokens Page
-> ![](https://cdn.discordapp.com/attachments/924736351855849562/926064389650530354/unknown.png)
+> ![](https://i.imgur.com/1szxzU5.jpg)
 > - ### Youtube Demo soon
 > [![](https://i.imgur.com/j79yzMM.gif)](https://www.youtube.com/watch?v=4JfiFdiOCUk&ab_channel=KanekiWeb)
 
